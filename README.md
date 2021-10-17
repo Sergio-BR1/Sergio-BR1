@@ -30,7 +30,7 @@
 <code><img height= "20"src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 
-💻 ## Programar é arte, sofrer com bugs faz parte
+## 💻 Programar é arte, sofrer com bugs faz parte
 
 <img src="https://giphy.com/gifs/kung-fury-hackerman-3knKct3fGqxhK" width="30">
 
