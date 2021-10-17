@@ -30,10 +30,11 @@
  <code><img height= "20"src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
  <code><img height= "20"src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
  <code><img height= "20"src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
-
-<img src="https://tenor.com/view/hackerman-mr-gif-12747764.gif">
 </div
 
 ## 💻 Programar é arte, sofrer com bugs faz parte ##
+ 
+ <img align ="right" src="https://tenor.com/view/hackerman-mr-gif-12747764.gif">
+
 
 
