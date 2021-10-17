@@ -21,7 +21,7 @@
 
 ## Linguagens e Ferramentas:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergio-BR1&show_icons=truehide=stars,commits,prs,issues,contribs&count_private=true&theme=nightowl)](https://github.com/Sergio-BR1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-BR1&layout=compact)](https://github.com/Sergio-BR1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-BR1&layout=compact&theme=nightowl)](https://github.com/Sergio-BR1/github-readme-stats)
 
 
 ## Linguagens mais utilizadas
