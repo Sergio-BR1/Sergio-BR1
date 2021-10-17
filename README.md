@@ -14,9 +14,9 @@
 
 ## Sobre mim
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Sergio_Brito)](https://t.me/Sergio_Brito)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sergio_Brito)
 [![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoColor=white)]( mailto:mariosbps@ufba.br?body=Ol%C3%A1%2C%20S%C3%A9rgio.)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sérgio-brito-/)]( https://www.linkedin.com/in/sérgio-brito-/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/sérgio-brito-/)
 
 
 ## Linguagens e Ferramentas:
