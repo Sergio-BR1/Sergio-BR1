@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, Mundo 🌎
 
 ## Meu nome é Sérgio Brito!
 
@@ -34,7 +34,7 @@
 
 ## 💻 Programar é arte, sofrer com bugs faz parte ##
  
- <img align ="right" src="https://tenor.com/view/hackerman-mr-gif-12747764.gif">
+ <img align ="right" height="100" src="https://tenor.com/view/hackerman-mr-gif-12747764.gif">
 
 
 
