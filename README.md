@@ -1,16 +1,37 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**Sergio-BR1/Sergio-BR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é Sérgio Brito!
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:mortar_board: Estudo Ciência da Computação na UFBA.
+
+:construction_worker: Sou Voluntário do Ramo IEEE UFBA e Atual Presidente do Capítulo Estudantil IEEE UFBA
+
+:books: Atualmente estou me aprofundando em C++ e criação de projetos com interface gráfica.
+
+:outbox_tray: Meta para 2021: Conseguir criar o básico de um projeto com interface gráfica.
+
+## Sobre mim
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Sergio_Brito)](https://t.me/Sergio_Brito)
+[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoColor=white&link=mailto:mariosbps@ufba.br?body=Ol%C3%A1%2C%20S%C3%A9rgio.)]( mailto:mariosbps@ufba.br?body=Ol%C3%A1%2C%20S%C3%A9rgio.)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sérgio-brito-/)]( https://www.linkedin.com/in/sérgio-brito-/)
+
+
+## Linguagens e Ferramentas:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergio-BR1&hide=stars,commits,prs,issues,contribs&count_private=true&theme=nightowl)](https://github.com/Sergio-BR1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-BR1&layout=compact)](https://github.com/Sergio-BR1/github-readme-stats)
+
+
+## Linguagens mais utilizadas
+<code><img height= "20"src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
+
+💻 ## Programar é arte, sofrer com bugs faz parte
+
+<img src="https://giphy.com/gifs/kung-fury-hackerman-3knKct3fGqxhK" width="30">
+
+
