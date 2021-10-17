@@ -15,12 +15,12 @@
 ## Sobre mim
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Sergio_Brito)](https://t.me/Sergio_Brito)
-[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoColor=white&link=mailto:mariosbps@ufba.br?body=Ol%C3%A1%2C%20S%C3%A9rgio.)]( mailto:mariosbps@ufba.br?body=Ol%C3%A1%2C%20S%C3%A9rgio.)
+[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoColor=white)]( mailto:mariosbps@ufba.br?body=Ol%C3%A1%2C%20S%C3%A9rgio.)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sérgio-brito-/)]( https://www.linkedin.com/in/sérgio-brito-/)
 
 
 ## Linguagens e Ferramentas:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergio-BR1&hide=stars,commits,prs,issues,contribs&count_private=true&theme=nightowl)](https://github.com/Sergio-BR1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergio-BR1&show_icons=truehide=stars,commits,prs,issues,contribs&count_private=true&theme=nightowl)](https://github.com/Sergio-BR1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-BR1&layout=compact)](https://github.com/Sergio-BR1/github-readme-stats)
 
 
