@@ -26,7 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-BR1&layout=compact&theme=nightowl)](https://github.com/Sergio-BR1/github-readme-stats)
 
 
-### Linguagens mais utilizadas
+### Linguagens que conheço
 <div style="display: inline_block"><br>
  <code><img height= "20"src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
  <code><img height= "20"src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
