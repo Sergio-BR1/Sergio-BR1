@@ -8,9 +8,9 @@
 
 :construction_worker: Sou Voluntário do Ramo IEEE UFBA e Atual Presidente do Capítulo Estudantil IEEE UFBA
 
-:books: Atualmente estou me aprofundando em C++ e criação de projetos com interface gráfica.
+:books: Atualmente estou me aprofundando em desenvolvimento Web com HTML, CSS e Wordpress.
 
-:outbox_tray: Meta para 2021: Conseguir criar o básico de um projeto com interface gráfica.
+:outbox_tray: Meta para 2022: Me especializar em desenvolvimento Web.
 
 <br>
 
