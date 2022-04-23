@@ -6,7 +6,7 @@
 
 :mortar_board: Estudo Ciência da Computação na UFBA.
 
-:construction_worker: Sou Voluntário do Ramo IEEE UFBA e Atual Presidente do Capítulo Estudantil IEEE UFBA
+:construction_worker: Sou Voluntário e atual Webmaster do Ramo IEEE UFBA
 
 :books: Atualmente estou me aprofundando em desenvolvimento Web com HTML, CSS e Wordpress.
 
