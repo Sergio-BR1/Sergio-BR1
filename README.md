@@ -10,8 +10,6 @@
 
 :books: Atualmente estou me aprofundando em desenvolvimento Web com HTML, CSS e Wordpress.
 
-:outbox_tray: Meta para 2022: Me especializar em desenvolvimento Web.
-
 <br>
 
 ## Sobre mim
