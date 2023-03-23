@@ -6,9 +6,9 @@
 
 :mortar_board: Estudo Ciência da Computação na UFBA.
 
-:construction_worker: Sou Voluntário e atual Webmaster do Ramo IEEE UFBA
+:construction_worker: Sou Voluntário e ex-Webmaster do Ramo IEEE UFBA
 
-:books: Atualmente estou me aprofundando em desenvolvimento Web com HTML, CSS e Wordpress.
+:books: Atualmente estou me aprofundando em Bancos de Dados.
 
 <br>
 
@@ -16,7 +16,7 @@
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sergio_Brito)
 <a href="mailto:mariosbps@ufba.br"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sérgio-brito-/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-programador)
 
 
 ## Linguagens e Ferramentas:
