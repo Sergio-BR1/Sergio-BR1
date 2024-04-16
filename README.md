@@ -6,9 +6,9 @@
 
 :mortar_board: Estudo Ciência da Computação na UFBA.
 
-:construction_worker: Sou Voluntário e ex-Webmaster do Ramo IEEE UFBA
+:construction_worker: Sou Estagiário na STI UFBA
 
-:books: Atualmente estou me aprofundando em Bancos de Dados.
+:books: Atualmente estou me aprofundando em Desenvolvimento Mobile.
 
 <br>
 
