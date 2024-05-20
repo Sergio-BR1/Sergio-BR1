@@ -31,8 +31,7 @@
 </div>
 <br>
 
-### 💻 Programar é arte, sofrer com bugs faz parte ###
- 
+
  <img align ="right" height="250" src="https://tenor.com/view/hackerman-mr-gif-12747764.gif">
 
 
