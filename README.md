@@ -29,6 +29,10 @@
  <code><img height= "20"src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
  <code><img height= "20"src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
  <code><img height= "20"src= "https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></code>
+ <code><img height= "20"src= "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></code>
+ <code><img height= "20"src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></code>
+ <code><img height= "20"src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></code>
+ <code><img height= "20"src= "https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 </div>
 <br>
 
