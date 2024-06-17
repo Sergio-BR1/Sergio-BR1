@@ -20,7 +20,7 @@
 
 
 ## Linguagens e Ferramentas:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergio-BR1&show_icons=truehide=stars,commits,prs,issues,contribs&count_private=true&theme=nightowl)](https://github.com/Sergio-BR1/github-readme-stats)
+![Sergio-BR1's Stats](https://github-readme-stats.vercel.app/api?username=Sergio-BR1&theme=jolly&show_icons=true&hide_border=false&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-BR1&layout=compact&theme=nightowl)](https://github.com/Sergio-BR1/github-readme-stats)
 
 
