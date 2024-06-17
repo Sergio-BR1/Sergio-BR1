@@ -21,7 +21,7 @@
 
 ## Linguagens e Ferramentas:
 ![Sergio-BR1's Stats](https://github-readme-stats.vercel.app/api?username=Sergio-BR1&theme=jolly&show_icons=true&hide_border=false&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-BR1&layout=compact&theme=nightowl)](https://github.com/Sergio-BR1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-BR1&layout=compact&theme=jolly&show)](https://github.com/Sergio-BR1/github-readme-stats)
 
 
 ### Tecnologias:
