@@ -8,7 +8,7 @@
 
 :construction_worker: Sou Estagiário na STI UFBA
 
-:books: Atualmente estou me aprofundando em Desenvolvimento Mobile.
+:books: Atualmente estou me aprofundando em Desenvolvimento Mobile e Front-end.
 
 <br>
 
