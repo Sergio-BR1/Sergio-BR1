@@ -6,7 +6,7 @@
 
 :mortar_board: Estudo Ciência da Computação na UFBA.
 
-:construction_worker: Sou Estagiário na STI UFBA
+:construction_worker: Sou Estagiário no Serpro e Residente na Residência em Software Restic36
 
 :books: Atualmente estou me aprofundando em Desenvolvimento Mobile e Front-end.
 
